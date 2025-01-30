@@ -1,5 +1,4 @@
-/*Develop a menu-driven program to do arthmetic operations such as +,-,*,/,% using udf,
-switch case,and looping.Make sure that program is endless until a certain letter is passed*/
+/*write a c program to simulate a simple calculator that performs addition,subtraction,multiplication,division*/
 #include<stdio.h>
 
 int main(){
